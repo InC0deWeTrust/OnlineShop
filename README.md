@@ -1,2 +1,3 @@
 # OnlineShop
-A small project based on C# language for creating an online-shop using methods as ASP.NET MVC
+A small project based on C# language that runs on ASP.MVC 5.
+Projects represents the online-shop that sells guitars with a variety of different options. 
